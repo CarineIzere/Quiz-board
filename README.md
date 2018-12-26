@@ -1,6 +1,6 @@
 # QUIZ-BOARD-PROJECT
 ## {Description}
-{The application is about Quiz-Board which contains questions.} {My high school has started an after-school computer club and they need my help! The club is finishing a course on JavaScript and they need a quiz for students to take at the end. They have asked me to create a page that contains questions about JavaScript. This is quiz board for my school GO TO THIS PAGE FOR ACCESSING IT AT GITHUB https://github.com/CarineIzere/Quiz-board AND HEREhttps://carineizere.github.io/Quiz-board/  TO LOOK HOW IT IS DESIGNED}
+{The application is about Quiz-Board which contains questions.} {My high school has started an after-school computer club and they need my help! The club is finishing a course on JavaScript and they need a quiz for students to take at the end. They have asked me to create a page that contains questions about JavaScript. This is quiz board for my school GO TO THIS PAGE FOR ACCESSING IT AT GITHUB https://github.com/CarineIzere/Quiz-board AND HERE    https://carineizere.github.io/Quiz-board/  TO LOOK HOW IT IS DESIGNED}
 
 ## BY CARINE iZERE
 Setup/Installation Requirements
