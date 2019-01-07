@@ -28,14 +28,14 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>QUIZ-BOARD-PROJECT/jquery-3.3.1.js at master · CarineIzere/QUIZ-BOARD-PROJECT</title>
-    <meta name="description" content="My high school has started an after-school computer club and they need my help! The club is finishing a course on JavaScript and they need a quiz for students to take at the end. They have asked me to create a page that contains questions about JavaScript. This is quiz board for my school.  - CarineIzere/QUIZ-BOARD-PROJECT">
+  <title>QUIZ-Board/jquery-3.3.1.js at master · CarineIzere/QUIZ-Board</title>
+    <meta name="description" content="My high school has started an after-school computer club and they need my help! The club is finishing a course on JavaScript and they need a quiz for students to take at the end. They have asked me to create a page that contains questions about JavaScript. This is quiz board for my school.  - CarineIzere/QUIZ-BOARD">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
 
     
-    <meta property="og:image" content="https://avatars0.githubusercontent.com/u/45596468?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="CarineIzere/QUIZ-BOARD-PROJECT" /><meta property="og:url" content="https://github.com/CarineIzere/QUIZ-BOARD-PROJECT" /><meta property="og:description" content="My high school has started an after-school computer club and they need my help! The club is finishing a course on JavaScript and they need a quiz for students to take at the end. They have asked me..." />
+    <meta property="og:image" content="https://avatars0.githubusercontent.com/u/45596468?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="CarineIzere/QUIZ-BOARD" /><meta property="og:url" content="https://github.com/CarineIzere/Quiz-board" /><meta property="og:description" content="My high school has started an after-school computer club and they need my help! The club is finishing a course on JavaScript and they need a quiz for students to take at the end. They have asked me..." />
 
   <link rel="assets" href="https://github.githubassets.com/">
   <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzU1MTkyNzM3OmM1MmI5MDQ3ODNhMTMwMjcyOTMxZDQyZjVmYjY3YjhlOGMwZDBlZWRjNmVjYzM4ZjMwNTVhNWU3ZDVjMDliOTM=--fc1706e268572043bba86716cadffbf2a8a63c57">
@@ -80,14 +80,14 @@
   <meta http-equiv="x-pjax-version" content="dcf479d97247df77ce4929e5f45d2480">
   
 
-      <link href="https://github.com/CarineIzere/QUIZ-BOARD-PROJECT/commits/master.atom" rel="alternate" title="Recent Commits to QUIZ-BOARD-PROJECT:master" type="application/atom+xml">
+      <link href="https://github.com/CarineIzere/Quiz-board/commits/master.atom" rel="alternate" title="Recent Commits to QUIZ-Board:master" type="application/atom+xml">
 
-  <meta name="go-import" content="github.com/CarineIzere/QUIZ-BOARD-PROJECT git https://github.com/CarineIzere/QUIZ-BOARD-PROJECT.git">
+  <meta name="go-import" content="github.com/CarineIzere/Quiz-bord git https://github.com/CarineIzere/Quiz-board">
 
-  <meta name="octolytics-dimension-user_id" content="45596468" /><meta name="octolytics-dimension-user_login" content="CarineIzere" /><meta name="octolytics-dimension-repository_id" content="162687688" /><meta name="octolytics-dimension-repository_nwo" content="CarineIzere/QUIZ-BOARD-PROJECT" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="162687688" /><meta name="octolytics-dimension-repository_network_root_nwo" content="CarineIzere/QUIZ-BOARD-PROJECT" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
+  <meta name="octolytics-dimension-user_id" content="45596468" /><meta name="octolytics-dimension-user_login" content="CarineIzere" /><meta name="octolytics-dimension-repository_id" content="162687688" /><meta name="octolytics-dimension-repository_nwo" content="CarineIzere/QUIZ-BOARD" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="162687688" /><meta name="octolytics-dimension-repository_network_root_nwo" content="CarineIzere/QUIZ-BOARD" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/CarineIzere/QUIZ-BOARD-PROJECT/blob/master/js/jquery-3.3.1.js" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/CarineIzere/Quiz-board/blob/master/js/jquery-3.3.1.js" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -142,7 +142,7 @@
   aria-expanded="false"
 >
   <div class="position-relative">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" data-scope-type="Repository" data-scope-id="162687688" data-scoped-search-url="/CarineIzere/QUIZ-BOARD-PROJECT/search" data-unscoped-search-url="/search" action="/CarineIzere/QUIZ-BOARD-PROJECT/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" data-scope-type="Repository" data-scope-id="162687688" data-scoped-search-url="/CarineIzere/Quiz-Board/search" data-unscoped-search-url="/search" action="/CarineIzere/Quiz-Board/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
       <label class="form-control header-search-wrapper header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center js-chromeless-input-container">
         <input type="text"
           class="form-control header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
@@ -347,9 +347,9 @@
 
   <div class="dropdown-divider"></div>
   <div class="dropdown-header">
-    <span title="CarineIzere/QUIZ-BOARD-PROJECT">This repository</span>
+    <span title="CarineIzere/Quiz-bord">This repository</span>
   </div>
-    <a role="menuitem" class="dropdown-item" href="/CarineIzere/QUIZ-BOARD-PROJECT/issues/new" data-ga-click="Header, create new issue">
+    <a role="menuitem" class="dropdown-item" href="/CarineIzere/Quiz-board/issues/new" data-ga-click="Header, create new issue">
       New issue
     </a>
 
@@ -499,7 +499,7 @@
         </details-menu>
       </details>
       <a class="social-count js-social-count"
-        href="/CarineIzere/QUIZ-BOARD-PROJECT/watchers"
+        href="/CarineIzere/Quiz-board/watchers"
         aria-label="0 users are watching this repository">
         0
       </a>
@@ -508,32 +508,32 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/CarineIzere/QUIZ-BOARD-PROJECT/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="N16A8yp6A8wEJKAANBAJjwzpsO/6N1MnqU4zlFZ+y0tOvuDAtgzi76ANvvG3zMjKOCCuEXJINggwZUFRVdQ2EA==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/CarineIzere/Quiz-board/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="N16A8yp6A8wEJKAANBAJjwzpsO/6N1MnqU4zlFZ+y0tOvuDAtgzi76ANvvG3zMjKOCCuEXJINggwZUFRVdQ2EA==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
-        aria-label="Unstar this repository" title="Unstar CarineIzere/QUIZ-BOARD-PROJECT"
+        aria-label="Unstar this repository" title="Unstar CarineIzere/Quiz-board"
         data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">
         <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Unstar
       </button>
-        <a class="social-count js-social-count" href="/CarineIzere/QUIZ-BOARD-PROJECT/stargazers"
+        <a class="social-count js-social-count" href="/CarineIzere/Quiz-board/stargazers"
            aria-label="0 users starred this repository">
           0
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/CarineIzere/QUIZ-BOARD-PROJECT/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="0tNrE/9KvNyqiiGb/2RTY8FbI4yFA/Jkh33XHzl3rpF4HXVdS51Bqv7XS0bu6k3fRAl770mSUoyPeeOEwsTNHQ==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/CarineIzere/Quiz-board/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="0tNrE/9KvNyqiiGb/2RTY8FbI4yFA/Jkh33XHzl3rpF4HXVdS51Bqv7XS0bu6k3fRAl770mSUoyPeeOEwsTNHQ==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
-        aria-label="Star this repository" title="Star CarineIzere/QUIZ-BOARD-PROJECT"
+        aria-label="Star this repository" title="Star CarineIzere/Quiz-board/"
         data-ga-click="Repository, click star button, action:blob#show; text:Star">
         <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Star
       </button>
-        <a class="social-count js-social-count" href="/CarineIzere/QUIZ-BOARD-PROJECT/stargazers"
+        <a class="social-count js-social-count" href="/CarineIzere/Quiz-bord/stargazers"
            aria-label="0 users starred this repository">
           0
         </a>
@@ -546,7 +546,7 @@
           <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
           Fork
 </span>
-    <a href="/CarineIzere/QUIZ-BOARD-PROJECT/network/members" class="social-count"
+    <a href="/CarineIzere/Quiz-board/network/members" class="social-count"
        aria-label="0 users forked this repository">
       0
     </a>
@@ -557,7 +557,7 @@
   <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
   <span class="author" itemprop="author"><a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=45596468" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/CarineIzere">CarineIzere</a></span><!--
 --><span class="path-divider">/</span><!--
---><strong itemprop="name"><a data-pjax="#js-repo-pjax-container" href="/CarineIzere/QUIZ-BOARD-PROJECT">QUIZ-BOARD-PROJECT</a></strong>
+--><strong itemprop="name"><a data-pjax="#js-repo-pjax-container" href="/CarineIzere/Quiz-board/">Quiz-board/</a></strong>
 
 </h1>
 
@@ -570,14 +570,14 @@
      data-pjax="#js-repo-pjax-container">
 
   <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /CarineIzere/QUIZ-BOARD-PROJECT" href="/CarineIzere/QUIZ-BOARD-PROJECT">
+    <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /CarineIzere/Quiz-board/" href="/CarineIzere/Quiz-board/">
       <svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/></svg>
       <span itemprop="name">Code</span>
       <meta itemprop="position" content="1">
 </a>  </span>
 
     <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-      <a itemprop="url" data-hotkey="g i" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /CarineIzere/QUIZ-BOARD-PROJECT/issues" href="/CarineIzere/QUIZ-BOARD-PROJECT/issues">
+      <a itemprop="url" data-hotkey="g i" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /CarineIzere/Quiz-board//issues" href="/CarineIzere/Quiz-board//issues">
         <svg class="octicon octicon-issue-opened" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
         <span itemprop="name">Issues</span>
         <span class="Counter">0</span>
@@ -585,7 +585,7 @@
 </a>    </span>
 
   <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a data-hotkey="g p" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /CarineIzere/QUIZ-BOARD-PROJECT/pulls" href="/CarineIzere/QUIZ-BOARD-PROJECT/pulls">
+    <a data-hotkey="g p" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /CarineIzere/Quiz-board//pulls" href="/CarineIzere/Quiz-board//pulls">
       <svg class="octicon octicon-git-pull-request" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.993 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
       <span itemprop="name">Pull requests</span>
       <span class="Counter">0</span>
@@ -593,21 +593,21 @@
 </a>  </span>
 
 
-    <a data-hotkey="g b" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /CarineIzere/QUIZ-BOARD-PROJECT/projects" href="/CarineIzere/QUIZ-BOARD-PROJECT/projects">
+    <a data-hotkey="g b" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /CarineIzere/Quiz-board//projects" href="/CarineIzere/Quiz-board//projects">
       <svg class="octicon octicon-project" viewBox="0 0 15 16" version="1.1" width="15" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
       Projects
       <span class="Counter" >0</span>
 </a>
 
-    <a class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /CarineIzere/QUIZ-BOARD-PROJECT/wiki" href="/CarineIzere/QUIZ-BOARD-PROJECT/wiki">
+    <a class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /CarineIzere/Quiz-board//wiki" href="/CarineIzere/Quiz-board//wiki">
       <svg class="octicon octicon-book" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3 5h4v1H3V5zm0 3h4V7H3v1zm0 2h4V9H3v1zm11-5h-4v1h4V5zm0 2h-4v1h4V7zm0 2h-4v1h4V9zm2-6v9c0 .55-.45 1-1 1H9.5l-1 1-1-1H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h5.5l1 1 1-1H15c.55 0 1 .45 1 1zm-8 .5L7.5 3H2v9h6V3.5zm7-.5H9.5l-.5.5V12h6V3z"/></svg>
       Wiki
 </a>
-    <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse alerts security /CarineIzere/QUIZ-BOARD-PROJECT/pulse" href="/CarineIzere/QUIZ-BOARD-PROJECT/pulse">
+    <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse alerts security /CarineIzere/Quiz-board//pulse" href="/CarineIzere/Quiz-board//pulse">
       <svg class="octicon octicon-graph" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"/></svg>
       Insights
 </a>
-    <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_settings repo_branch_settings hooks integration_installations repo_keys_settings issue_template_editor /CarineIzere/QUIZ-BOARD-PROJECT/settings" href="/CarineIzere/QUIZ-BOARD-PROJECT/settings">
+    <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_settings repo_branch_settings hooks integration_installations repo_keys_settings issue_template_editor /CarineIzere/Quiz-board/T/settings" href="/CarineIzere/Quiz-board//settings">
       <svg class="octicon octicon-gear" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 8.77v-1.6l-1.94-.64-.45-1.09.88-1.84-1.13-1.13-1.81.91-1.09-.45-.69-1.92h-1.6l-.63 1.94-1.11.45-1.84-.88-1.13 1.13.91 1.81-.45 1.09L0 7.23v1.59l1.94.64.45 1.09-.88 1.84 1.13 1.13 1.81-.91 1.09.45.69 1.92h1.59l.63-1.94 1.11-.45 1.84.88 1.13-1.13-.92-1.81.47-1.09L14 8.75v.02zM7 11c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3z"/></svg>
       Settings
 </a>
@@ -625,7 +625,7 @@
 
 
   
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/CarineIzere/QUIZ-BOARD-PROJECT/blob/6ed1c67370e0930128eee2ee95bb8e935e94f505/js/jquery-3.3.1.js">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/CarineIzere/Quiz-board//blob/6ed1c67370e0930128eee2ee95bb8e935e94f505/js/jquery-3.3.1.js">Permalink</a>
 
     <!-- blob contrib key: blob_contributors:v21:7017b95766ea6f3f402b3ce4d307c66b -->
 
@@ -670,7 +670,7 @@
 <div class="select-menu-list" role="tabpanel">
   <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
       <a class="select-menu-item js-navigation-item js-navigation-open "
-         href="/CarineIzere/QUIZ-BOARD-PROJECT/blob/gh-pages/js/jquery-3.3.1.js"
+         href="/CarineIzere/Quiz-board//blob/gh-pages/js/jquery-3.3.1.js"
          data-name="gh-pages"
          data-skip-pjax="true"
          rel="nofollow">
@@ -680,7 +680,7 @@
         </span>
       </a>
       <a class="select-menu-item js-navigation-item js-navigation-open selected"
-         href="/CarineIzere/QUIZ-BOARD-PROJECT/blob/master/js/jquery-3.3.1.js"
+         href="/CarineIzere/Quiz-board//blob/master/js/jquery-3.3.1.js"
          data-name="master"
          data-skip-pjax="true"
          rel="nofollow">
@@ -691,7 +691,7 @@
       </a>
   </div>
 
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="select-menu-new-item-form js-new-item-form" action="/CarineIzere/QUIZ-BOARD-PROJECT/branches" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="qdj0vfP1sDFduk1reuoC5datioo5DeD3Km3zLtUBaSxJ8sqPT3w52LtewRqrxcPhtPFK+0E0VcppJZEvu92JmA==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="select-menu-new-item-form js-new-item-form" action="/CarineIzere/Quiz-bord/branches" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="qdj0vfP1sDFduk1reuoC5datioo5DeD3Km3zLtUBaSxJ8sqPT3w52LtewRqrxcPhtPFK+0E0VcppJZEvu92JmA==" />
       <input type="hidden" name="name" id="name" class="js-new-item-value">
       <input type="hidden" name="branch" id="branch" value="master">
       <input type="hidden" name="path_binary" id="path_binary" value="anMvanF1ZXJ5LTMuMy4xLmpz">
@@ -720,7 +720,7 @@
 </div>
 
       <div class="BtnGroup float-right">
-        <a href="/CarineIzere/QUIZ-BOARD-PROJECT/find/master"
+        <a href="/CarineIzere/Quiz-board//find/master"
               class="js-pjax-capture-input btn btn-sm BtnGroup-item"
               data-pjax
               data-hotkey="t">
@@ -731,7 +731,7 @@
         </clipboard-copy>
       </div>
       <div id="blob-path" class="breadcrumb">
-        <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/CarineIzere/QUIZ-BOARD-PROJECT"><span>QUIZ-BOARD-PROJECT</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/CarineIzere/QUIZ-BOARD-PROJECT/tree/master/js"><span>js</span></a></span><span class="separator">/</span><strong class="final-path">jquery-3.3.1.js</strong>
+        <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/CarineIzere/Quiz-board/"><span>Quiz-bord</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/CarineIzere/Quiz-board//tree/master/js"><span>js</span></a></span><span class="separator">/</span><strong class="final-path">jquery-3.3.1.js</strong>
       </div>
     </div>
 
@@ -739,7 +739,7 @@
     
   <div class="commit-tease">
       <span class="float-right">
-        <a class="commit-tease-sha" href="/CarineIzere/QUIZ-BOARD-PROJECT/commit/dbf3beb2e70c28772a5309970efa4c05cbf2c76a" data-pjax>
+        <a class="commit-tease-sha" href="/CarineIzere/Quiz-board//commit/dbf3beb2e70c28772a5309970efa4c05cbf2c76a" data-pjax>
           dbf3beb
         </a>
         <relative-time datetime="2018-12-21T09:19:05Z">Dec 21, 2018</relative-time>
@@ -747,7 +747,7 @@
       <div>
         <a rel="author" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=45596468" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/CarineIzere"><img class="avatar" src="https://avatars2.githubusercontent.com/u/45596468?s=40&amp;v=4" width="20" height="20" alt="@CarineIzere" /></a>
         <a class="user-mention" rel="author" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=45596468" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/CarineIzere">CarineIzere</a>
-          <a data-pjax="true" title="add jquerry-3.3,1.js" class="message" href="/CarineIzere/QUIZ-BOARD-PROJECT/commit/dbf3beb2e70c28772a5309970efa4c05cbf2c76a">add jquerry-3.3,1.js</a>
+          <a data-pjax="true" title="add jquerry-3.3,1.js" class="message" href="/CarineIzere/Quiz-board/commit/dbf3beb2e70c28772a5309970efa4c05cbf2c76a">add jquerry-3.3,1.js</a>
       </div>
 
     <div class="commit-tease-contributors">
@@ -789,9 +789,9 @@
 
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/CarineIzere/QUIZ-BOARD-PROJECT/raw/master/js/jquery-3.3.1.js">Raw</a>
-        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/CarineIzere/QUIZ-BOARD-PROJECT/blame/master/js/jquery-3.3.1.js">Blame</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/CarineIzere/QUIZ-BOARD-PROJECT/commits/master/js/jquery-3.3.1.js">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/CarineIzere/Quiz-boardraw/master/js/jquery-3.3.1.js">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/CarineIzere/Quiz-board/blame/master/js/jquery-3.3.1.js">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/CarineIzere/Quiz-board/commits/master/js/jquery-3.3.1.js">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
@@ -801,13 +801,13 @@
             <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
         </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/CarineIzere/QUIZ-BOARD-PROJECT/edit/master/js/jquery-3.3.1.js" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="y9IRBmEyrblzq0f71uGbhlmvoAIhapxMPqJKeE5RNysIMfNRb19h7plMM267ChuxVgW5mKCUyaOWWAi7zn2RBA==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/CarineIzere/Quiz-board/edit/master/js/jquery-3.3.1.js" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="y9IRBmEyrblzq0f71uGbhlmvoAIhapxMPqJKeE5RNysIMfNRb19h7plMM267ChuxVgW5mKCUyaOWWAi7zn2RBA==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Edit this file" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
             </button>
 </form>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/CarineIzere/QUIZ-BOARD-PROJECT/delete/master/js/jquery-3.3.1.js" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="CuTssNO2t2x/9Gd8fYQ7UClrVtlmg70EAPyycq/2hwgAm2vd7hX/UEt/dPQ//5xlh+Y5Du9rpaTgs5bNLVahsA==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/CarineIzere/Quiz-board/delete/master/js/jquery-3.3.1.js" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="CuTssNO2t2x/9Gd8fYQ7UClrVtlmg70EAPyycq/2hwgAm2vd7hX/UEt/dPQ//5xlh+Y5Du9rpaTgs5bNLVahsA==" />
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Delete this file" data-disable-with>
             <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -44242,8 +44242,8 @@
       <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se mt-2">
         <li><clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" data-original-text="Copy lines">Copy lines</clipboard-copy></li>
         <li><clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" data-original-text="Copy permalink">Copy permalink</clipboard-copy></li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/CarineIzere/QUIZ-BOARD-PROJECT/blame/6ed1c67370e0930128eee2ee95bb8e935e94f505/js/jquery-3.3.1.js">View git blame</a></li>
-          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/CarineIzere/QUIZ-BOARD-PROJECT/issues/new">Open new issue</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/CarineIzere/Quiz-bord/blame/6ed1c67370e0930128eee2ee95bb8e935e94f505/js/jquery-3.3.1.js">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/CarineIzere/Quiz-bord/issues/new">Open new issue</a></li>
       </ul>
     </details-menu>
   </details>
