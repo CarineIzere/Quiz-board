@@ -28,14 +28,14 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>QUIZ-Board/jquery-3.3.1.js at master · CarineIzere/QUIZ-Board</title>
-    <meta name="description" content="My high school has started an after-school computer club and they need my help! The club is finishing a course on JavaScript and they need a quiz for students to take at the end. They have asked me to create a page that contains questions about JavaScript. This is quiz board for my school.  - CarineIzere/QUIZ-BOARD">
+  <title>Quiz-board/jquery-3.3.1.js at master · CarineIzere/Quiz-board</title>
+    <meta name="description" content="My high school has started an after-school computer club and they need my help! The club is finishing a course on JavaScript and they need a quiz for students to take at the end. They have asked me to create a page that contains questions about JavaScript. This is quiz board for my school.  - CarineIzere/Quiz-board">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
 
     
-    <meta property="og:image" content="https://avatars0.githubusercontent.com/u/45596468?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="CarineIzere/QUIZ-BOARD" /><meta property="og:url" content="https://github.com/CarineIzere/Quiz-board" /><meta property="og:description" content="My high school has started an after-school computer club and they need my help! The club is finishing a course on JavaScript and they need a quiz for students to take at the end. They have asked me..." />
+    <meta property="og:image" content="https://avatars0.githubusercontent.com/u/45596468?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="CarineIzere/Quiz-board" /><meta property="og:url" content="https://github.com/CarineIzere/Quiz-board" /><meta property="og:description" content="My high school has started an after-school computer club and they need my help! The club is finishing a course on JavaScript and they need a quiz for students to take at the end. They have asked me..." />
 
   <link rel="assets" href="https://github.githubassets.com/">
   <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzU1MTkyNzM3OmM1MmI5MDQ3ODNhMTMwMjcyOTMxZDQyZjVmYjY3YjhlOGMwZDBlZWRjNmVjYzM4ZjMwNTVhNWU3ZDVjMDliOTM=--fc1706e268572043bba86716cadffbf2a8a63c57">
@@ -80,11 +80,11 @@
   <meta http-equiv="x-pjax-version" content="dcf479d97247df77ce4929e5f45d2480">
   
 
-      <link href="https://github.com/CarineIzere/Quiz-board/commits/master.atom" rel="alternate" title="Recent Commits to QUIZ-Board:master" type="application/atom+xml">
+      <link href="https://github.com/CarineIzere/Quiz-board/commits/master.atom" rel="alternate" title="Recent Commits to Quiz-board:master" type="application/atom+xml">
 
   <meta name="go-import" content="github.com/CarineIzere/Quiz-bord git https://github.com/CarineIzere/Quiz-board">
 
-  <meta name="octolytics-dimension-user_id" content="45596468" /><meta name="octolytics-dimension-user_login" content="CarineIzere" /><meta name="octolytics-dimension-repository_id" content="162687688" /><meta name="octolytics-dimension-repository_nwo" content="CarineIzere/QUIZ-BOARD" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="162687688" /><meta name="octolytics-dimension-repository_network_root_nwo" content="CarineIzere/QUIZ-BOARD" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
+  <meta name="octolytics-dimension-user_id" content="45596468" /><meta name="octolytics-dimension-user_login" content="CarineIzere" /><meta name="octolytics-dimension-repository_id" content="162687688" /><meta name="octolytics-dimension-repository_nwo" content="CarineIzere/Quiz-board" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="162687688" /><meta name="octolytics-dimension-repository_network_root_nwo" content="CarineIzere/Quiz-board" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
     <link rel="canonical" href="https://github.com/CarineIzere/Quiz-board/blob/master/js/jquery-3.3.1.js" data-pjax-transient>
@@ -142,7 +142,7 @@
   aria-expanded="false"
 >
   <div class="position-relative">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" data-scope-type="Repository" data-scope-id="162687688" data-scoped-search-url="/CarineIzere/Quiz-Board/search" data-unscoped-search-url="/search" action="/CarineIzere/Quiz-Board/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" data-scope-type="Repository" data-scope-id="162687688" data-scoped-search-url="/CarineIzere/Quiz-board/search" data-unscoped-search-url="/search" action="/CarineIzere/Quiz-board/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
       <label class="form-control header-search-wrapper header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center js-chromeless-input-container">
         <input type="text"
           class="form-control header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
