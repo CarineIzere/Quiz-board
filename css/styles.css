@@ -20,22 +20,22 @@ h1 ,h2 , h3 {
 	font-size: 30px;
 	color: brown;
 	text-decoration: uppercase;
+	float: center;
 }
 radio {
 	color: brown;	
 }
-#results
-	  
-	  input.quizSubmit[type="submit"] {
+	   }
+	#INSTRUCTION{
 		background-color: rgb(70, 28, 28);
-		margin: 0;
-		border: 0;
-		outline: 0;
+		margin: 20px;
+		border: 20px;
+		outline: 20px;
 		text-transform:uppercase;
 		height:35px;
 		width:85px;
 		border-radius:5px;
-	   }
-	
+		flex-direction: column-reverse	
+	}
 	  
 	  
