@@ -21,13 +21,9 @@ h1 ,h2 , h3 {
 	color: brown;
 	text-decoration: uppercase;
 	float: center;
-}
-radio {
-	color: brown;	
-}
-	   }
-	#INSTRUCTION{
-		background-color: rgb(70, 28, 28);
+}	   
+#INSTRUCTION{
+		background-color:bisque;
 		margin: 20px;
 		border: 20px;
 		outline: 20px;
@@ -35,7 +31,9 @@ radio {
 		height:35px;
 		width:85px;
 		border-radius:5px;
-		flex-direction: column-reverse	
+		display: flex;
+		flex-direction: row;
+		padding: 20px;
 	}
 	  
 	  
